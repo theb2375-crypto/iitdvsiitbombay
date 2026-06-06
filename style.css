@@ -56,13 +56,12 @@ body {
     margin: 0;
 }
 
-/* NO MORE SLANTED FONT - Text stands straight up now */
 .hero-title .highlight {
     color: #E2DED5;
     font-weight: 600;
-    /* font-style: italic; <-- Removed this! */
 }
 
+/* === RESTORED SCROLL BUTTON STYLING === */
 .scroll-indicator {
     position: absolute;
     bottom: 40px;
